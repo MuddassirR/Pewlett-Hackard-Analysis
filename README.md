@@ -15,7 +15,6 @@ Analyzed Pewlett Hackard employee database using PostgreSQL to anticipate the nu
 - 1549 total emmployees eligble for mentorship, of which 294 are senior engineers and 422 are senior staff. 
 
 ## Summary
-- 90,398 roles would need to be filled soon. 
+- 90,398 roles would need to be filled soon, which would severely impact the functioning of the business, specially in engineering.
 - 1549 employees eligible for mentorship, almost half are seniors from whom can be retiring soon. 
-- This suggests that there aren't enough mentors.
 
