@@ -7,7 +7,7 @@ Analyzed Pewlett Hackard employee database using PostgreSQL to anticipate the nu
 ## Results:
 - Number of retiring employees per title can be seen here 
 <br>
-- ![](https://github.com/MuddassirR/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
+![](https://github.com/MuddassirR/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 - approximately 37.7% of the company's total employees will retire soon
 - senior engineer and senior staff are the most impacted positions with upcoming retirements
 - only 2 managers will be retiring soon.
